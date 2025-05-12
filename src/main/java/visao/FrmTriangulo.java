@@ -39,6 +39,7 @@ public class FrmTriangulo extends javax.swing.JFrame {
         JBFechar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Area Triangulo");
 
         JLBase.setText("Base:");
 
