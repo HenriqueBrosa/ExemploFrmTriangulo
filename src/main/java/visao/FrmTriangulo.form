@@ -30,18 +30,23 @@
                       <Group type="103" groupAlignment="1" attributes="0">
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="JLAltura" min="-2" max="-2" attributes="0"/>
-                                  <Component id="JTFAltura" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="JLAltura" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="JTFAltura" pref="115" max="32767" attributes="0"/>
+                                      <EmptySpace min="-2" pref="180" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
-                              <EmptySpace max="32767" attributes="0"/>
                               <Component id="JBFechar" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Component id="JLBase" min="-2" max="-2" attributes="0"/>
-                                  <Component id="JTFBase" min="-2" max="-2" attributes="0"/>
+                                  <Component id="JTFBase" min="-2" pref="115" max="-2" attributes="0"/>
                               </Group>
-                              <EmptySpace pref="230" max="32767" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Component id="JBCalcular" alignment="1" min="-2" max="-2" attributes="0"/>
                                   <Component id="JBLimpar" alignment="1" min="-2" max="-2" attributes="0"/>
