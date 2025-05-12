@@ -1,7 +1,7 @@
 
 package principal;
 
-import visao.FrmTriangulo;.+-
+import visao.FrmTriangulo;
 
 public class Principal {
 
